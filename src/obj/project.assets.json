@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nitin\\samples\\dockertest\\dockertest-mvc\\dockertest-mvc.csproj",
+      "projectUniqueName": "C:\\Users\\nitin\\samples\\dockertest\\dockertest-mvc\\src\\dockertest-mvc.csproj",
       "projectName": "dockertest-mvc",
-      "projectPath": "C:\\Users\\nitin\\samples\\dockertest\\dockertest-mvc\\dockertest-mvc.csproj",
+      "projectPath": "C:\\Users\\nitin\\samples\\dockertest\\dockertest-mvc\\src\\dockertest-mvc.csproj",
       "packagesPath": "C:\\Users\\nitin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nitin\\samples\\dockertest\\dockertest-mvc\\obj\\",
+      "outputPath": "C:\\Users\\nitin\\samples\\dockertest\\dockertest-mvc\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nitin\\AppData\\Roaming\\NuGet\\NuGet.Config",
